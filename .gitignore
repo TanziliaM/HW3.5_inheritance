@@ -27,6 +27,9 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
+/static-sample/
+/reflection-sample/
+/lombok-inheritance/
 
 ### VS Code ###
 .vscode/
